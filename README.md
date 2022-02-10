@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos! from Mexico 🇲🇽
 - 👀 I’m interested in expand my knowledge in all the software engineer topics I can cover.
 - 🌱 I’m currently learning Javascript, Node.js, Typescript, JQuery, Angular, React and C++.
-- 📫 How to reach me: silveira.alberto24@gmail.com OR my Linkeding Profile: https://www.linkedin.com/in/carlos-silveira-hinojos/
+- 📫 How to reach me: silveira.alberto24@gmail.com OR my Linkedin Profile: https://www.linkedin.com/in/carlos-silveira-hinojos/
 
 
 Example of my learning:
