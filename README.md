@@ -5,6 +5,7 @@
 
 
 Example of my learning:
+https://github.com/carlos-silveira/techy-laravel (https://techynews.com.mx/)
 https://github.com/carlos-silveira/react-node-app
 
 <!---
