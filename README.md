@@ -20,14 +20,6 @@ I am passionate about code quality, system architecture, and currently, the inte
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-silveira&show_icons=true&theme=tokyonight&hide_border=true" alt="Carlos's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-silveira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
